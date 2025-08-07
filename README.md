@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me:
 
-- 🎓 I'm currently pursuing **De in Computer Science Engineering** (2025 Batch)
+- 🎓 I'm currently pursuing **Diploma in Computer Science Engineering** (2023-2026 Batch)
 - 🌐 I love building responsive and modern **websites and apps**
 - 🤖 I explore and work with **AI tools and APIs** to automate things and boost productivity
 - 💡 I believe in **learning by building**
@@ -28,9 +28,9 @@
 
 ### 📌 Featured Projects:
 
-- 🔗 [AI-Based Productivity Dashboard](https://github.com/VijayKumar123/ai-dashboard) – AI tools integration for daily productivity
-- 🔗 [Form Validation System](https://github.com/VijayKumar123/form-validation) – HTML, CSS, JS based form with validation
-- 🔗 [Portfolio Website](https://github.com/VijayKumar123/portfolio) – Personal developer portfolio
+
+- 🔗 [Form Validation System](https://run-vijay.github.io/Responsive-Form-with-Validation/) – HTML, CSS, JS based form with validation
+- 🔗 [Portfolio Website](https://run-vijay.github.io/Personal-Portfolio/) – Personal developer portfolio
 
 ---
 
