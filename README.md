@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me:
 
-- 🎓 I'm currently pursuing **B.Tech in Computer Science Engineering** (2025 Batch)
+- 🎓 I'm currently pursuing **De in Computer Science Engineering** (2025 Batch)
 - 🌐 I love building responsive and modern **websites and apps**
 - 🤖 I explore and work with **AI tools and APIs** to automate things and boost productivity
 - 💡 I believe in **learning by building**
@@ -22,16 +22,6 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,python" />
-</p>
-
----
-
-### 📈 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VijayKumar123&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VijayKumar123&theme=tokyonight" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijayKumar123&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
