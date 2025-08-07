@@ -26,13 +26,6 @@
 
 ---
 
-### 📌 Featured Projects:
-
-
-- 🔗 [Form Validation System](https://run-vijay.github.io/Responsive-Form-with-Validation/) – HTML, CSS, JS based form with validation
-- 🔗 [Portfolio Website](https://run-vijay.github.io/Personal-Portfolio/) – Personal developer portfolio
-
----
 
 ### 📚 Learning Goals (2025):
 
@@ -42,16 +35,6 @@
 - ✅ Build real-world projects using **Next.js**, **TypeScript**, **Tailwind CSS**
 - ✅ Improve problem-solving with **DSA (Leetcode)**
 
----
-
-### 🌐 Connect With Me:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/yourprofile" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" /></a>
-  <a href="https://twitter.com/yourprofile" target="blank"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&style=for-the-badge" /></a>
-  <a href="https://vijaykumar.dev" target="blank"><img src="https://img.shields.io/badge/Portfolio-black?logo=githubpages&style=for-the-badge" /></a>
-</p>
 
 ---
 
